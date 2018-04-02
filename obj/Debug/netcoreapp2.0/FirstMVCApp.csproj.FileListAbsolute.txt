@@ -1,0 +1,11 @@
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.0\FirstMVCApp.deps.json
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.0\FirstMVCApp.runtimeconfig.json
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.0\FirstMVCApp.runtimeconfig.dev.json
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.0\FirstMVCApp.dll
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\bin\Debug\netcoreapp2.0\FirstMVCApp.pdb
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.0\FirstMVCApp.csprojResolveAssemblyReference.cache
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.0\FirstMVCApp.csproj.CoreCompileInputs.cache
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.0\FirstMVCApp.AssemblyInfoInputs.cache
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.0\FirstMVCApp.AssemblyInfo.cs
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.0\FirstMVCApp.dll
+C:\Users\saurabh.bohra\source\repos\FirstMVCApp\FirstMVCApp\obj\Debug\netcoreapp2.0\FirstMVCApp.pdb
